@@ -14,8 +14,7 @@ Another such corpus, dealing with Abstract Algebra Theory and Applications by Th
 Both books are recommended by the Open Source book initiative of AIM (American Institute of Mathematics)
 
 
-**Note**: This process did not follow the Universal Dependencies script, but instead 
-applied **spaCy** in Python to collect the relevant statistics.
+**Note**: Using spaCy in Python, this process successfully extracted the relevant statistics and CoNLL-style features.
 
 ---------------------
 
