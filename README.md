@@ -2,21 +2,21 @@
 
 ### Linear Algebra Corpora (PDF version)
 
-A place to collect corpora obtained from the book 
-[Linear Algebra (Jim Hefferon)](https://hefferon.net/linearalgebra/), 
-available with a permissive license at [Jim Hefferon GitHub repository](https://gitlab.com/jim.hefferon/linear-algebra/-/tree/master). 
+A place to collect corpora obtained from the book [Linear Algebra (Jim Hefferon)](https://hefferon.net/linearalgebra/), 
+available with a permissive license from [Jim Hefferon GitHub repository](https://gitlab.com/jim.hefferon/linear-algebra/-/tree/master). 
 
-These corpora are gathered at the request of 
+These filesa are gathered at the request of 
 [Valeria de Paiva](https://vcvpaiva.github.io/) to be used in experiments 
 extracting mathematical concepts for the [Topos Institute](https://topos.institute/) project NetworkMathematics.
 
-Another such corpus, dealing with Abstract Algebra Theory and Applications (by Thomas Judson)  can be found at https://github.com/andreago9/MathCorpus-AATA.
-And a third book, NLP-analyzed, on discrete mathematics can be found at https://github.com/andreago9/DMLevin.
+Another such corpus, dealing with Abstract Algebra Theory and Applications (by Thomas Judson), can be found at https://github.com/andreago9/MathCorpus-AATA.
+
+A third book, also NLP-analyzed, Discrete Mathematics: An Open Introduction, by Oscar Levin, can be found at https://github.com/andreago9/DMLevin.
 
 All three books are recommended by the [Open Textbook Initiative](https://textbooks.aimath.org/) of AIM (American Institute of Mathematics)
 
 
-**Note**: Using spaCy in Python, this process successfully extracted the relevant statistics and CoNLL-style features.
+**Note**: Using spaCy in Python, this process successfully extracts the relevant statistics and CoNLL-style features.
 
 ---------------------
 
