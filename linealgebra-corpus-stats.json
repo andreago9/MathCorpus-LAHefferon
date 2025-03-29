@@ -2,7 +2,7 @@
     "spacy_version": "3.7.5",
     "spacy_model": "en_core_web_sm",
     "date": "2025-03-25T02:20:33.584119",
-    "corpus": "aata-json",
+    "corpus": "linearalgebra-pdf",
     "documents/pages": 525,
     "sentences": 9884,
     "sentence_lengths": {
